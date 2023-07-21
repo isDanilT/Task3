@@ -1,6 +1,6 @@
 # Danil T
 
-![photo.](<img width="981" alt="Screen Shot 2023-07-21 at 19 11 29" src="https://github.com/isDanilT/Task3/assets/62556603/6c86835c-668f-4fba-b263-a7dfe529332a"> "Is it him? Or no...")
+![photo.](<img width="981" alt="photo" src="https://github.com/isDanilT/Task3/assets/62556603/bbe618d1-ea5d-41d0-b3bf-7d5e85ecb740">)
 
 
 
